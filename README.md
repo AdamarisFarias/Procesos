@@ -1,4 +1,5 @@
-PROYECTO PROCESOS
+-- PROYECTO PROCESOS -- 
+
 Se creo realizo un mapeo de procesos de una camaronera con los siguientes pasos:
 1.	IDENTIFICACIÓN DE LA ORGANIZACIÓN 
 2.	INVENTARIO DE PROCESOS IDENTIFICADOS
